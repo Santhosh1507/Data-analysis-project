@@ -50,9 +50,10 @@ you can install all the Requirements package to run code app.py
    streamlit run app.py
 ```
 ![alt text](<Images/Screenshot 2024-06-19 201011.png>)
+
 ## 🔗 Demo
 
-url: https://data-analysis-project-web.streamlit.app/
+url: https://data-analysis-project-web-application.streamlit.app/
 
 
 ## Project Screenshots:
