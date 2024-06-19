@@ -52,7 +52,7 @@ you can install all the Requirements package to run code app.py
 ![alt text](<Images/Screenshot 2024-06-19 201011.png>)
 ## 🔗 Demo
 
-url: https://santhosh1507-resume-web.streamlit.app/
+url: https://data-analysis-project-web.streamlit.app/
 
 
 ## Project Screenshots:
