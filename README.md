@@ -31,7 +31,7 @@ Install Packages
 
 1. Step 1
 ```bash
-   git clone https://github.com/Santhosh1507/my-Resume.git
+   git clone https://github.com/Santhosh1507/Data-analysis-project.git
 ```
 2. step 2
 ```bash
